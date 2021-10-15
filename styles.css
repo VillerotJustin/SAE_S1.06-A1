@@ -1,5 +1,6 @@
 p {
 	text-align:	justify;
+	text-indent: 30px;
 }
 .pl-1 {
 	padding-left: ($spacer * .5) !important;
