@@ -9,3 +9,12 @@ p {
 .homenav{
 	padding-left: 30px;
 }
+
+.citation{
+	color: grey;
+	border: 1px dashed grey; 
+	padding: 5px; 
+}
+.italic{
+	font-style: italic;
+}
