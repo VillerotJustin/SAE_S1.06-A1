@@ -11261,9 +11261,6 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
-  .pl-1 {
-    padding-left: ($spacer * .5) !important;
-  }
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
