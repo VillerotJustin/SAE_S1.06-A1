@@ -4,11 +4,3 @@ p {
 .pl-1 {
 	padding-left: ($spacer * .5) !important;
 }
-
-h1{
-	border: 2px black;
-	color: black;
-	font-size: 44px;
-	padding: 10px;
-	text-align: center;
-}
