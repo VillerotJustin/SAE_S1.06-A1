@@ -2,11 +2,9 @@ p {
 	text-align:	justify;
 	text-indent: 30px;
 }
-
 .homenav{
 	padding-left: 30px;
 }
-
 .citation{
 	color: grey;
 	border: 1px dashed grey;
@@ -14,4 +12,7 @@ p {
 }
 .italic{
 	font-style: italic;
+}
+.top{
+	margin-top: 50px;
 }
