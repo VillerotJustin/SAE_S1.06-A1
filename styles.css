@@ -20,8 +20,12 @@ p {
 .lien{
 	text-decoration: none;
 	transition: 1s;
-	color: white;
+	color: red;
+	border: 3px solid;
 }
 .lien:hover{
-	color: red;
+	color: white;
+}
+.droite{
+	text-align: right;
 }
