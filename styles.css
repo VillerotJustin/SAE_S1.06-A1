@@ -2,6 +2,17 @@ p {
 	text-align:	justify;
 	text-indent: 30px;
 }
-.pl-1 {
-	padding-left: ($spacer * .5) !important;
+.homenav{
+	padding-left: 30px;
+}
+.citation{
+	color: grey;
+	border: 1px dashed grey;
+	padding: 5px;
+}
+.italic{
+	font-style: italic;
+}
+.top{
+	margin-top: 50px;
 }
