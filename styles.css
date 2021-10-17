@@ -2,8 +2,6 @@ p {
 	text-align:	justify;
 	text-indent: 30px;
 }
-<<<<<<< Updated upstream
-=======
 
 hr {
 	color: black;
@@ -20,7 +18,6 @@ hr {
 	padding-left: ($spacer * .5) !important;
 }
 
->>>>>>> Stashed changes
 .homenav{
 	padding-left: 30px;
 }
