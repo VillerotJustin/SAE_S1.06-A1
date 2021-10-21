@@ -66,6 +66,7 @@ hr {
     background-size: 50%, 50%;
     border-radius: 50%;
     border: 1px solid black;
+<<<<<<< Updated upstream
 }
 
 img.displayed {
@@ -81,3 +82,6 @@ img.displayed {
 h1{
 	text-align: center;
 }
+=======
+}
+>>>>>>> Stashed changes
