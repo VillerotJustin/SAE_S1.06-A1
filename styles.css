@@ -13,6 +13,10 @@ hr {
   	opacity: 1;
 
 }
+.lienAc {
+	color: black;
+	text-decoration: none;
+}
 
 .pl-1 {
 	padding-left: ($spacer * .5) !important;
@@ -25,6 +29,7 @@ hr {
 	color: grey;
 	border: 1px dashed grey;
 	padding: 5px;
+	text-align: center;
 }
 .italic{
 	font-style: italic;
@@ -66,7 +71,10 @@ hr {
     background-size: 50%, 50%;
     border-radius: 50%;
     border: 1px solid black;
-<<<<<<< Updated upstream
+}
+
+.teamcenter {
+	text-align: center;
 }
 
 img.displayed {
@@ -74,10 +82,6 @@ img.displayed {
     margin-left: auto;
     margin-right: auto
 	}
-
-.citaion{
-	text-align: center;
-}
 
 h1{
 	text-align: center;
