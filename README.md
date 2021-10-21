@@ -5,7 +5,7 @@ Groupe : [Kohler Jarod](mailto:jarod.kohler@edu.univ-fconte.fr?subject=[SAE_S1.0
 
 Lien de la page prototype : [cliquez ici](https://villerotjustin.github.io/SAE_S1.06-A1/Exemple.html) (faite par Justin)
 
-Lien de téléchargemlent du fichier PDF : [cliquez ici](https://github.com/VillerotJustin/SAE_S1.06-A1/raw/main/Docs/Kohler_SAE106_A1_Ankama.pdf)
+Lien de téléchargement du fichier PDF : [cliquez ici](https://github.com/VillerotJustin/SAE_S1.06-A1/raw/main/Docs/Kohler_SAE106_A1_Ankama.pdf)
 
 Screenshot du zoning : ![alt text](https://github.com/VillerotJustin/SAE_S1.06-A1/blob/main/Docs/Screenshot_Zonning.png) (fait par Jarod)
 
