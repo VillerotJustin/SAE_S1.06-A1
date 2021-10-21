@@ -7,9 +7,9 @@ Lien de la page prototype : [cliquez ici](https://villerotjustin.github.io/SAE_S
 
 Lien de téléchargement du fichier PDF : [cliquez ici](https://github.com/VillerotJustin/SAE_S1.06-A1/raw/main/Docs/Kohler_SAE106_A1_Ankama.pdf)
 
-Screenshot du zoning : ![alt text](https://github.com/VillerotJustin/SAE_S1.06-A1/blob/main/Docs/Screenshot_Zonning.png) (fait par Jarod)
+Screenshot du zoning (fait par Jarod) : ![alt text](https://github.com/VillerotJustin/SAE_S1.06-A1/blob/main/Docs/Screenshot_Zonning.png)
 
-Screenshot de la page prototype : ![alt text](https://github.com/VillerotJustin/SAE_S1.06-A1/blob/main/Docs/Screenshot_Prototype.png) (fait par Jarod)
+Screenshot de la page prototype (fait par Jarod) : ![alt text](https://github.com/VillerotJustin/SAE_S1.06-A1/blob/main/Docs/Screenshot_Prototype.png) 
 
 Page Accueil : Tout le groupe,   Image de verification : ![alt text](https://github.com/VillerotJustin/SAE_S1.06-A1/blob/main/Docs/v%C3%A9rification_Index.png)
 
