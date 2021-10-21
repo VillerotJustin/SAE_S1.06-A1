@@ -52,8 +52,20 @@ hr {
 	text-align: left;
 }
 
-h1{
-	text-align: center;
+.item {
+    display: none;
+    position: relative;
+    .transition(.4s ease-in-out left);
+}	
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 50px;
+    width: 50px;
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-size: 50%, 50%;
+    border-radius: 50%;
+    border: 1px solid black;
 }
 
 img.displayed {
