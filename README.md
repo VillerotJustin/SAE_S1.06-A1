@@ -11,8 +11,6 @@ Screenshot du zoning : ![alt text](https://github.com/VillerotJustin/SAE_S1.06-A
 
 Screenshot de la page prototype : ![alt text](https://github.com/VillerotJustin/SAE_S1.06-A1/blob/main/Docs/Screenshot_Prototype.png) (fait par Jarod)
 
-Lien de la page prototype : https://villerotjustin.github.io/SAE_S1.06-A1/Exemple.html (faite par Justin)
-
 Page Accueil : Tout le groupe,   Image de verification : ![alt text](https://github.com/VillerotJustin/SAE_S1.06-A1/blob/main/Docs/v%C3%A9rification_Index.png)
 
 Page Présentaion de l'entreprise : Justin,   Image de verification : ![alt text](https://github.com/VillerotJustin/SAE_S1.06-A1/blob/main/Docs/v%C3%A9rification_Justin.png)
