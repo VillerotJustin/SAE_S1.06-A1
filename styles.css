@@ -56,7 +56,7 @@ hr {
     display: none;
     position: relative;
     .transition(.4s ease-in-out left);
-}	
+}
 
 .carousel-control-prev-icon, .carousel-control-next-icon {
     height: 50px;
@@ -73,3 +73,11 @@ img.displayed {
     margin-left: auto;
     margin-right: auto
 	}
+
+.citaion{
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+}
