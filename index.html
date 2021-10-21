@@ -3,10 +3,16 @@
   <head>
     <meta charset="utf-8">
     <title>Ankama</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
     <link rel="icon" type="image/ico" href="Docs/favicon.ico">
     <link href="Docs/bootstrap/css/bootstrap.css" rel="stylesheet">
     <script src="Docs/bootstrap/js/bootstrap.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     <link href="styles.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <style>
+    .carousel-control-prev{ opacity:1 !important;color:red;}
+</style>
   </head>
   <body>
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
@@ -32,8 +38,35 @@
           </div>
         </nav>
         <div class="top">
-          <center><h1>Accueil</h1>
-              <img src="Docs/image_top.jpg" alt="Dofus" width="700px" height="393px"></center>
+            <center><h1>Accueil</h1></center>
+            <div class="container">
+            <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+              <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+              </div>
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <img src="Docs/Logo_Ankama.jpg" alt="logo Ankama" class="d-block w-100">
+                </div>
+                <div class="carousel-item">
+                  <img src="Docs/Logo_Wakfu.jpg" alt="wakfu"class="d-block w-100">
+                </div>
+                <div class="carousel-item">
+                  <img src="Docs/image_top.jpg" alt="Dofus" class="d-block w-100">
+                </div>
+              </div>
+              <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden bg">Previous</span>
+              </button>
+              <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+              </button>
+            </div>
+          </div>
         </div>
         <div>
           <br>
@@ -69,7 +102,6 @@
               <div class="col-1">
               </div>
               <div class="col-4">
-                <center><p>Image à trouver (peut-être)</p></center>
               </div>
               <div class="col-1">
               </div>
