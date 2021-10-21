@@ -23,5 +23,4 @@ Page rapport économique : Simon,  Image de verification : ![alt text](https://g
 
 Image de verification du CSS :
 
-
 ![alt text](https://github.com/VillerotJustin/SAE_S1.06-A1/blob/main/Docs/v%C3%A9rification_css.png)
