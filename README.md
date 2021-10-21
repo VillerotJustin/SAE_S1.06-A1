@@ -1,5 +1,5 @@
 # SAE_S1.06-A1
- étude economique et informatique d'Ankama
+ étude économique et informatique d'Ankama
 
 Groupe : [Kohler Jarod](mailto:jarod.kohler@edu.univ-fconte.fr?subject=[SAE_S1.06-A1]), Meister Nicolas, Parmé Simon, Villerot Justin
 
@@ -9,12 +9,14 @@ Screenshot de la page prototype : https://imgur.com/5vi0CIy (fait par Jarod)
 
 Lien de la page prototype : https://villerotjustin.github.io/SAE_S1.06-A1/Exemple.html (faite par Justin)
 
-Page Accueil : Tout le groupe
+Page Accueil : Tout le groupe,   Image de verification : https://imgur.com/vYLwDjQ
 
-Page Présentaion de l'entreprise : Justin
+Page Présentaion de l'entreprise : Justin,   Image de verification : https://imgur.com/IFkPU9M
 
-Page Filliales d'Ankama : Nicolas
+Page Filliales d'Ankama : Nicolas,   Image de verification : https://imgur.com/undefined
 
-Page Environnement de l'entreprise : Jarod
+Page Environnement de l'entreprise : Jarod,  Image de verification : https://imgur.com/undefined
 
-Page rapport économique : Simon
+Page rapport économique : Simon,  Image de verification : https://imgur.com/PDKKbWr
+
+Lien vers le fichier PDF : https://github.com/VillerotJustin/SAE_S1.06-A1/raw/main/Docs/Kohler_SAE106_A1_Ankama.pdf
