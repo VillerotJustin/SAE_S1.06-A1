@@ -21,4 +21,7 @@ Page Environnement de l'entreprise : Jarod,  Image de verification : ![alt text]
 
 Page rapport économique : Simon,  Image de verification : ![alt text](https://github.com/VillerotJustin/SAE_S1.06-A1/blob/main/Docs/verification_Simon.png)
 
-Image de verification du CSS :![alt text](https://github.com/VillerotJustin/SAE_S1.06-A1/blob/main/Docs/v%C3%A9rification_css.png)
+Image de verification du CSS :
+
+
+![alt text](https://github.com/VillerotJustin/SAE_S1.06-A1/blob/main/Docs/v%C3%A9rification_css.png)
