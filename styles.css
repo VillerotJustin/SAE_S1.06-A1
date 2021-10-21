@@ -1,13 +1,7 @@
-p {
-	text-align:	justify;
-	text-indent: 30px;
-}
-
 hr {
 	color: black;
 	height: 3px;
 	padding: 0 4px;
-  	margin: $hr-margin-y 0;
   	background-color: currentColor;
   	border: 0;
   	opacity: 1;
@@ -16,10 +10,6 @@ hr {
 .lienAc {
 	color: black;
 	text-decoration: none;
-}
-
-.pl-1 {
-	padding-left: ($spacer * .5) !important;
 }
 
 .homenav{
@@ -60,7 +50,6 @@ hr {
 .item {
     display: none;
     position: relative;
-    .transition(.4s ease-in-out left);
 }
 
 .carousel-control-prev-icon, .carousel-control-next-icon {
@@ -88,5 +77,15 @@ h1{
 }
 
 ol{
-	font-size: 1.5rem;
+	font-size: 1.6rem;
+}
+
+.petit{
+	font-size: 1.3rem;
+}
+
+p{
+	font-size: 1.2rem;
+	text-align:	justify;
+	text-indent: 30px;
 }
